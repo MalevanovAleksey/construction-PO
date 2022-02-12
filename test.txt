@@ -1,3 +1,6 @@
 fgdgf
 dfgdfg
+
 Изменения в myBranch
+Изменение в master
+
